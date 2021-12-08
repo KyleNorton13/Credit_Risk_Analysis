@@ -10,7 +10,7 @@ The objective of this analysis was to use different techniques to to evaluate th
 
 ### OverSampling
 
--The RandomOverSampler method ranked last in accuracy with a score 64.39%. 
+- RandomOverSampler
 
 ![image](https://user-images.githubusercontent.com/87450415/145141512-de070fa3-7e28-4fcd-a2e6-6719aa64e3f5.png)
 
